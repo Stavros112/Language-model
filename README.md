@@ -1,5 +1,11 @@
-# Language-model
-A code for a basic language model which responds to the user according to specific key words. 
-The language model has three basic functions. 
-1) Showcase the weather for the next three days on the location the user inputs.
-2) Suggest a restaurant based on the cuisine style and the city the user inputs.
+# Weather and Dining Recommendations
+
+This project is a very basic Large Language Model (LLM) that provides weather forecasts for different cities and recommends restaurants and bars based on the user's preferences in those cities.
+
+## Features
+
+- Get weather forecasts for various cities around the world.
+- Receive restaurant and bar recommendations tailored to the user's preferences in each city.
+- Very simple and easy-to-use interface.
+
+
